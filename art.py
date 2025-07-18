@@ -17,18 +17,18 @@ logo = r"""
 
 
 
-
-whyYouShouldHireMe = {}
-hired = False
-
-while not hired:
-    whyYouShouldHireMe["reasonOne"] = \
-        "Strong work ethic and always strive for excellence."
-    whyYouShouldHireMe["reasonTwo"] = \
-        "Quick learner and can adapt to new environments."
-    whyYouShouldHireMe["reasonThree"] = \
-        "Positive attitude and work well in collaborative teams."
-
-    print("Reasons why you should hire me:")
-    for key, value in whyYouShouldHireMe.items():
-        print(f"{key}: {value}")
+# Easter egg, used in banner of linkedin
+# whyYouShouldHireMe = {}
+# hired = False
+#
+# while not hired:
+#     whyYouShouldHireMe["reasonOne"] = \
+#         "Strong work ethic and always strive for excellence."
+#     whyYouShouldHireMe["reasonTwo"] = \
+#         "Quick learner and can adapt to new environments."
+#     whyYouShouldHireMe["reasonThree"] = \
+#         "Positive attitude and work well in collaborative teams."
+#
+#     print("Reasons why you should hire me:")
+#     for key, value in whyYouShouldHireMe.items():
+#         print(f"{key}: {value}")
